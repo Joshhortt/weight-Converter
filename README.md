@@ -10,7 +10,7 @@ _By **Josh Hortt**_
 _This application is a demonstration of using functions to convert different Weight units_.<br/>
 
 
-_** How to convert Ounces (oz) to Grams (g)**_. <br/>
+_**How to convert Ounces (oz) to Grams (g)**_. <br/>
 _1 ounce (oz) is equal to 28.34952 grams (g)_.<br/>
 _1 oz = 28.34952 g_<br/>
 _The mass m in grams (g) is equal to the mass m in ounces (oz) times 28.34952_:<br/>
@@ -21,7 +21,7 @@ _**How to convert Grams (g) to Ounces (oz)**_.<br/>
 _1 gram (g) is equal to 0.03527396195 ounces (oz)_.<br/>
 _1 g = 0.03527396195 oz_<br/>
 _The mass m in ounces (oz) is equal to the mass m in grams (g) divided by 28.34952_:<br/>
-_m(oz) = m(g) / 28.34952_
+_**m(oz) = m(g) / 28.34952**_
 
 ## Setup/Installation Requirements
 

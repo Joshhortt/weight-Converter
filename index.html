@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="style.css">
+<title>Weight Converter</title>
+
+<body>
+
+<h2>Weight Converter</h2>
+<h4>Type a value in the Ounces field to convert the value to Grams:</h4>
+
+
+<div>
+<p>
+  <label>Ounces</label>
+  <input id="inputOunces" type="number" placeholder="Ounces" oninput="weightConverterOne(this.value)" onchange="weightConverterOne(this.value)">
+</p>
+<p>Grams: <span id="outputGrams"></span></p>
+</div>
+
+
+<h4>Type a value in the Grams field to convert the value to Ounces:</h4>
+
+<p>
+  <label>Grams</label>
+  <input id="inputGrams" type="number" placeholder="Grams" oninput="weightConverterTwo(this.value)" onchange="weightConverterTwo(this.value)">
+</p>
+<p>Ounces: <span id="outputOunces"></span></p>
+
+
+
+  <script type="text/javascript" src="script.js"></script>
+
+  </body>
+</html>
